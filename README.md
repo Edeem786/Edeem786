@@ -2,7 +2,7 @@
 
 I'm a Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhen.
 
-I am interested in algorithms, systems, and building software through practical projects.
+I am interested in competitive programming, game development, and computer systems
 
 ## Projects
 
