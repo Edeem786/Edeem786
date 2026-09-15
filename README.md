@@ -1,16 +1,21 @@
-## Hi there 👋
+# hellooo
 
-<!--
-**Edeem786/Edeem786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhen.
 
-Here are some ideas to get you started:
+I am interested in algorithms, systems, and building software through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **CS50AI Projects**
+  - Implementations exploring artificial intelligence concepts using Python.
+
+- **Project Eclipse**
+  - An educational site about Eclipses using NASA image API
+ 
+- **Script Spire**
+  - A game project developed with Unity for teaching algorithmic thinking
+
+## Background
+
+- ICPC Asia Regional Silver Medalist
+- Member of CUHK-Shenzhen Programming Contest Team
